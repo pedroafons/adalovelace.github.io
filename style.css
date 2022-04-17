@@ -1,0 +1,56 @@
+body {
+    background-color: #EFF1ED;
+    font-family: Verdana;
+    margin: auto;
+}
+
+#main {
+    color: #100e12;
+    text-align: center;
+}
+
+#title {
+    font-size: 75px;
+}
+
+#little-text {
+    font-size: 11px;
+    position: relative;
+    bottom: 50px;
+}
+
+#image {
+    max-width: 100%;
+    display: block;
+    height: auto;
+    margin: 0 auto;
+    border-radius: 5px;
+}
+
+#img-div {
+    position: relative;
+    bottom: 25px;
+}
+
+#img-caption {
+    font-size: 11px;
+}
+
+ul {
+    max-width: 600px;
+    margin: 0 auto 30px auto;
+    text-align: left;
+}
+
+h5 {
+    font-style: italic;
+    color: #7d7b80;
+}
+
+#tribute-link {
+    text-decoration: none;
+}
+
+#tribute-link:link {
+ color: #7d7b80;
+}
